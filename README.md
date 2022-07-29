@@ -1,2 +1,2 @@
 # resolusi
-repository untuk menyimpan rencana WPU kedepannya
+repository untuk menyimpan rencana kedepannya
